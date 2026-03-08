@@ -1,6 +1,7 @@
 {
   "short_name": "Olympiades",
   "name": "Olympiades Aquarelia Noyal / Chatillon",
+  "id": "/olympiades/index.html",
   "description": "Gestion des scores et du classement des Olympiades",
   "icons": [
     {
